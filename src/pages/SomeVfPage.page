@@ -1,0 +1,5 @@
+<apex:page >
+    <p>
+        Example VF page for git test
+    </p>
+</apex:page>
